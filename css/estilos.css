@@ -49,3 +49,56 @@ header {
   margin-top: 80px;
   flex-grow: 1;
 }
+
+/* Figuras verdes 1 */
+.verde{
+  display: flex;
+  align-items: center;
+  margin-top: 70px;
+}
+
+
+.circuloVerde{
+  
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  background-color: rgb(9, 90, 10);
+  margin-left: 40px;
+}
+
+
+.rectanguloVerde{
+  flex-grow: 1;
+  background-color: rgb(15, 221, 118);
+  margin-left: 70px;
+  height: 300px;
+  margin-right: 40px;
+}
+
+/* FIGURAS VERDES 2 */
+
+.verde2{
+  display: flex;
+  align-items: center;
+  margin-top: 70px;
+}
+
+
+.circuloVerde2{
+  
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  background-color: rgb(9, 90, 10);
+  margin-right: 40px;
+}
+
+
+.rectanguloVerde2{
+  margin-left: 40px;
+  flex-grow: 1;
+  background-color: rgb(15, 221, 118);
+  margin-right: 70px;
+  height: 300px;
+}
