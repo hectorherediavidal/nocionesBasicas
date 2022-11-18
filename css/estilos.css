@@ -8,7 +8,6 @@ body {
   width: 100%;
   max-width: 1366px;
   margin: 0 auto;
-  
   box-sizing: border-box;
 }
 
@@ -109,8 +108,8 @@ header {
 footer {
   margin-top: 120px;
   display: flex;
-  
- height: 69rem;
+
+  height: 69rem;
   background-color: rgb(38, 34, 34);
 }
 
@@ -122,5 +121,5 @@ footer {
   margin: 20px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-top: 80px
+  margin-top: 80px;
 }
